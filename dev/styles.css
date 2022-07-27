@@ -1,0 +1,10 @@
+/* body {display: grid; align-items: center; justify-content: center; min-height: 100vh;} */
+/* body {
+  margin:0;
+} */
+section > :first-child {
+  margin-top: 0;
+}
+section > :last-child {
+  margin-bottom: 0;
+}
