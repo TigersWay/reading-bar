@@ -1,6 +1,6 @@
 # reading-bar  ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/tigersway/reading-bar?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tigersway/reading-bar?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/tigersway/reading-bar?style=flat-square)
 
-### Usage  [![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/tigersway/reading-bar?color=blue&logo=jsdelivr&style=flat-square)](https://www.jsdelivr.com/package/gh/tigersway/reading-bar)
+### Usage  [![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/tigersway/reading-bar?logo=jsdelivr&style=flat-square)](https://www.jsdelivr.com/package/gh/tigersway/reading-bar)
 
 ```html
 <!doctype html>
